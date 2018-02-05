@@ -17,3 +17,15 @@ pip install plotly --upgrade  # Plotly graphing library used in examples
 # You will also need to install
 
 pip install colorlover
+
+pip install datetime 
+
+pip isntall flask
+
+pip install os
+
+pip install pandas
+
+pip install numpy
+
+pip install time
