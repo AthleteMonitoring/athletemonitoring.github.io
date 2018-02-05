@@ -14,3 +14,6 @@ pip install dash-core-components==0.18.1  # Supercharged components
 
 pip install plotly --upgrade  # Plotly graphing library used in examples
 
+# You will also need to install
+
+pip install colorlover
